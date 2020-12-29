@@ -1,6 +1,6 @@
-# Hi! H. B. Acharya Here.
+# Hi! I'm H. B. Acharya, and I go by dr-lastname.
 
-I'm an Assistant Professor at the Rochester Institute of Technology, and an old geek. 
+I'm an Assistant Professor at the Rochester Institute of Technology, and a proud geek. :)
 
 As a programmer, I completely understand how important it is to divide our work into modules; but it is in intersections and gaps, where fields collide, that the most creative ideas come from. So my interests cover more than one area.
   - Networks, Equipment, and Protocols.
@@ -31,4 +31,4 @@ I like to keep my teaching close to actual practice. There is a gap between CS _
   - Forensics: flow tools, IDS, and some exposure to SIEM.
 
 2. In the past, I've taught Networks, Distributed Systems, and Programming / Data Structures.
-(I can also teach Operating Systems, Algorithms, and Formal Languages, though only at the UG level.)
+  (I can also teach Operating Systems, Algorithms, and Formal Languages, at the UG level.)
