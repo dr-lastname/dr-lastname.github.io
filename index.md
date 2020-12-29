@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Hi! This is H. B. Acharya.
 
-You can use the [editor on GitHub](https://github.com/dr-lastname/dr-lastname.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an Assistant Professor, now at the Rochester Institute of Technology, and an old geek. - I started out interested in biology, then spent so much time playing with computers I am now a computer scientist. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a programmer, I completely understand how important it is to divide our work into modules; but it is in intersections and gaps, where fields collide, that the most creative ideas come from. So my interests cover more than one area.
+  - Networks, Equipment, and Protocols.
+  - Security and Privacy.
+  - Distributed Systems.
+  
+Here are a couple of ideas I'm interested in. (Looking for Ph.D students!)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dr-lastname/dr-lastname.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. We see the Internet as a hierarchy - a few backbone ISPs, like Level-3 and Cogent, provide services to smaller ISPs; these provide service to still smaller ones, and so on down to the consumer. But this model is now being displaced by Content Delivery Networks, owned by Google etc. What does this mean for us end users?
